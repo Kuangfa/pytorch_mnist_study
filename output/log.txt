@@ -1,0 +1,40 @@
+
+train 	Epoch 0/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.33215 	  acc_ave: 0.89119 	  
+
+train 	Epoch 0/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.34600 	  acc_ave: 0.88619 	  
+
+train 	Epoch 1/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.08309 	  acc_ave: 0.97417 	  
+
+train 	Epoch 2/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.05783 	  acc_ave: 0.98229 	  
+
+train 	Epoch 3/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.04499 	  acc_ave: 0.98621 	  
+
+train 	Epoch 4/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.03494 	  acc_ave: 0.98909 	  
+
+train 	Epoch 5/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.02807 	  acc_ave: 0.99075 	  
+
+train 	Epoch 6/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.02384 	  acc_ave: 0.99266 	  
+
+train 	Epoch 7/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.02158 	  acc_ave: 0.99293 	  
+
+train 	Epoch 8/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01614 	  acc_ave: 0.99480 	  
+
+train 	Epoch 9/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01545 	  acc_ave: 0.99476 	  
+
+train 	Epoch 10/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01110 	  acc_ave: 0.99626 	  
+
+train 	Epoch 11/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01322 	  acc_ave: 0.99560 	  
+
+train 	Epoch 12/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00909 	  acc_ave: 0.99676 	  
+
+train 	Epoch 13/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.01173 	  acc_ave: 0.99615 	  
+
+train 	Epoch 14/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00812 	  acc_ave: 0.99752 	  
+
+train 	Epoch 15/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00785 	  acc_ave: 0.99738 	  
+
+train 	Epoch 16/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.00668 	  acc_ave: 0.99763 	  
+
+train 	Epoch 0/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.34799 	  acc_ave: 0.88492 	  
+
+train 	Epoch 1/300 	 Learning rate: 0.00100 	 Train loss_ave: 0.08400 	  acc_ave: 0.97384 	  
